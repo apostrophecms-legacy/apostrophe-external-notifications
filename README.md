@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-external-notifications
 
 A simple way to get notifications via Slack and other external systems when various events occur in [ApostropheCMS](https://apostrophecms.org).
